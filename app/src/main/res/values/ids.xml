@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="account_accountName" type="id"></item>//supp name
+    <item name="account_amount" type="id"></item>//supp amount
+    <item name="account_iban" type="id"></item>//supp iban
+    <item name="account_currency" type="id"></item>//supp currency
+    <item name="accounts_recyclerview" type="id"></item>
+    <item name="activity_account_welcomeUserId" type="id"></item>
+    //supp accounts
+</resources>
