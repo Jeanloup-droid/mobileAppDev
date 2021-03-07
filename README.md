@@ -1,9 +1,6 @@
 # mobileAppDev
 Mobile Application Development - TD3 - Code explanation
-
- - Content :
-
-	- Explain how you ensure user is the right one starting the app
+ - Explain how you ensure user is the right one starting the app
 
 The user has to type the id corresponding to the account he wants to access to 
 have access to the account.
@@ -14,7 +11,7 @@ The result obtained is transleted in an arryList of accounts and the correct acc
 is parsed in the recyclerView widget by indexing the arrayList<Accounts> list.
 
 
-	- How do you securely save user's data on your phone ?
+ - How do you securely save user's data on your phone ?
 
 Using the interface SharedPreferences we can save data under json format on the
 application. This creates a backup that is not delete at the end of the 
@@ -23,11 +20,10 @@ SharedPreferences backup when an internet access is verified. Otherwise, an
 offline execution of the application will return the account's datas that have 
 been stored in the application backup at the last execution with connexion.
 
-	- How did you hide the API url ?
+ - How did you hide the API url ?
 
 
-
-	- Screenshots of your application 
+ - Screenshots of your application 
 
 
  - Issues:
