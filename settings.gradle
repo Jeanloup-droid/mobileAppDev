@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "bankAccountApp2.0_jeanLoubieres"
