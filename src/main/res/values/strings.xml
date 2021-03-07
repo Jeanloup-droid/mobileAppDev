@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="type_your_account_name_and_id_to_access_your_account">type your account id</string>
+    <string name="type_your_account_id">type your id</string>
+    <string name="login">login</string>
+    <string name="id">id</string>
+    <string name="parse">parse</string>
+    <string name="logout">logout</string>
+    <string name="refresh">refresh</string>
+</resources>
